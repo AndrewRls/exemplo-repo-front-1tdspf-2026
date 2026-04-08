@@ -1,8 +1,13 @@
-header {background-color: #020101;
+#cabecalho {background-color: #020101;
 color: #ffff00;}
 
-header h1{ font-family: Arial, Helvetica, sans-serif;}
+#cabecalho h1{ font-family: Arial, Helvetica, sans-serif;}
 
-header, h1{
-    font-family: Arial, Helvetica, sans-serif;
+#hero{
+    background-color: #464545;
+    text-align: justify;
+    padding-left: 10px;
+    /* box-shadow: right top blur */
+    box-shadow: 10px 5px 4px;
+    border-radius: 5px;
 }
