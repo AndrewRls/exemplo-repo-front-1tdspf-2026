@@ -11,3 +11,15 @@ color: #ffff00;}
     box-shadow: 10px 5px 4px;
     border-radius: 5px;
 }
+#hero a{
+    text-decoration: none;
+    color: #faebd7;
+    background-color: #464545;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+#hero a:hover{
+    background-color: #fff;
+    color: #1a1b1c;
+}
